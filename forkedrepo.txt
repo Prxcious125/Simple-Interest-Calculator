@@ -1,0 +1,11 @@
+curl https://api.github.com/repos/PRXCIOUS125/SIMPLE-INTEREST-CALCULATOR
+
+{
+  "id": 123456789,
+  "name": "/SIMPLE-INTEREST-CALCULATOR",
+  "full_name": "PRXCIOUS125/SIMPLE-INTEREST-CALCULATOR",
+  "fork": true,
+  "parent": {
+    "full_name": "IBMDeveloperSkillsNetwork/MCINO-Introduction-to-Git-and-GitHub"
+  }
+}
